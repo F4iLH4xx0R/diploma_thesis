@@ -1,0 +1,10 @@
+pandas
+numpy
+pyDOE2
+paramiko
+scp
+tensorflow
+sklearn
+matplotlib
+scipy
+seaborn
